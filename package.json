@@ -1,14 +1,25 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Note Taker Application](./assets/.png)",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmarzi/note-taker.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "bugs": {
+    "url": "https://github.com/kmarzi/note-taker/issues"
+  },
+  "homepage": "https://github.com/kmarzi/note-taker#readme"
 }
