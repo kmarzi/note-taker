@@ -1,6 +1,5 @@
 # Note Taker
 
-![Note Taker Application](./assets/ss5png)
 ![Note Taker Application](./assets/ss6.png)
 
 
